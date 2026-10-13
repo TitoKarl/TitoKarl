@@ -1,5 +1,3 @@
-Juan Carlos Rodríguez
-Estudiante de Desarrollo de Aplicaciones Multiplataforma
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=200&section=header&text=Juan%20Carlos%20Rodríguez&fontSize=36&fontColor=FFFFFF&fontAlignY=42&desc=DESARROLLO%20DE%20SOFTWARE&descAlignY=65&descSize=16" width="100%" alt="Encabezado de Juan Carlos Rodríguez" /> </p>
 
@@ -7,7 +5,7 @@ Estudiante de Desarrollo de Aplicaciones Multiplataforma
 
 <p align="center"> <img src="https://img.shields.io/badge/FORMACIÓN-DAM-243B55?style=for-the-badge" alt="Formación en desarrollo de aplicaciones multiplataforma"/> <img src="https://img.shields.io/badge/ENFOQUE-DESARROLLO%20DE%20SOFTWARE-243B55?style=for-the-badge" alt="Enfoque en desarrollo de software"/> </p>
 
-01. Sobre mí
+<span style="font-size: 36px; color: #58A6FF;">01</span> Sobre mí
 
 Soy estudiante de Desarrollo de Aplicaciones Multiplataforma en la Universidad de Diseño, Innovación y Tecnología (UDIT).
 
@@ -17,7 +15,7 @@ Me interesa comprender cómo funcionan las aplicaciones, mejorar la calidad del 
 
 Actualmente, mi objetivo es seguir ampliando mis conocimientos, consolidar mis habilidades técnicas y adquirir experiencia mediante el desarrollo de proyectos.
 
-02. Tecnologías y herramientas
+<span style="font-size: 36px; color: #58A6FF;">01</span> Tecnologías y herramientas
 
 Estas son algunas de las tecnologías presentes en mis proyectos y prácticas de desarrollo.
 
@@ -35,13 +33,14 @@ Herramienta	Uso
 Git	Control de versiones y seguimiento de cambios.
 GitHub	Gestión de repositorios y colaboración en proyectos.
 Visual Studio Code	Edición de código y desarrollo de software.
-03. Estadísticas de GitHub
+
+<span style="font-size: 36px; color: #58A6FF;">01</span> Estadísticas de GitHub
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TitoKarl&showicons=true&hideborder=true&bgcolor=0D1117&titlecolor=58A6FF&textcolor=C9D1D9&iconcolor=58A6FF&locale=es" height="180" alt="Estadísticas de actividad en GitHub"/> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitoKarl&layout=compact&hideborder=true&bgcolor=0D1117&titlecolor=58A6FF&textcolor=C9D1D9&langs_count=8&locale=es" height="180" alt="Lenguajes más utilizados en los repositorios"/> </p>
 
-04. Objetivos de aprendizaje
+<span style="font-size: 36px; color: #58A6FF;">01</span> Objetivos de aprendizaje
 
 Mi objetivo es seguir creciendo como desarrollador mediante la práctica constante, el aprendizaje de nuevas tecnologías y la participación en proyectos que me permitan mejorar mis habilidades.
 
@@ -54,7 +53,7 @@ Desarrollo de proyectos: planificación, implementación y mejora continua.
 
 Considero que cada proyecto es una oportunidad para aprender, identificar aspectos que se pueden mejorar y desarrollar soluciones cada vez más completas.
 
-05. Filosofía de desarrollo
+<span style="font-size: 36px; color: #58A6FF;">01</span> Filosofía de desarrollo
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=110&section=header&text=Código%20claro&fontSize=25&fontColor=FFFFFF&fontAlignY=35&desc=Aprendizaje%20constante%20%7C%20Mejora%20continua&descSize=13&descAlignY=70" width="100%" alt="Código claro, aprendizaje constante y mejora continua"/> </p>
 
