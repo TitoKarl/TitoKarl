@@ -55,6 +55,4 @@ Filosofía de desarrollo
 
 Busco construir una base técnica sólida, trabajar de forma organizada y mantener una actitud abierta ante nuevos retos y oportunidades de aprendizaje.
 
-<p align="center"> <a href="https://github.com/TitoKarl">Perfil de GitHub</a> </p>
-
 <p align="center"> Juan Carlos Rodríguez · Desarrollo de Aplicaciones Multiplataforma </p>
