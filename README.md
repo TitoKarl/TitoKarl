@@ -37,33 +37,6 @@ Estadísticas de GitHub
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitoKarl&layout=compact&hideborder=true&bgcolor=0D1117&titlecolor=58A6FF&textcolor=C9D1D9&langs_count=8&locale=es" height="185" alt="Distribución de lenguajes de programación" /> </p>
 
-Proyectos destacados
-Desarrollo de aplicaciones
-
-PMDM UDIT
-
-Repositorio relacionado con el desarrollo de aplicaciones multiplataforma y los proyectos realizados durante la formación.
-
-Prácticas de desarrollo
-
-Repositorio DI
-
-Espacio de trabajo con ejercicios y proyectos relacionados con el desarrollo de software.
-
-Inteligencia artificial
-
-Inteligencia Artificial
-
-Repositorio dedicado a ejercicios y proyectos relacionados con el ámbito de la inteligencia artificial.
-
-Acceso a datos
-
-Acceso a datos
-
-Prácticas y ejercicios relacionados con la gestión y el acceso a datos en aplicaciones.
-
-Objetivos profesionales
-
 Mi objetivo es seguir creciendo como desarrollador mediante la práctica constante y el aprendizaje de nuevas tecnologías.
 
 Quiero profundizar especialmente en:
