@@ -1,40 +1,33 @@
 Juan Carlos Rodríguez
-Estudiante de Desarrollo de Aplicaciones Multiplataforma
+Software Development | DAM Student
 
-Estudiante de Desarrollo de Aplicaciones Multiplataforma en la Universidad de Diseño, Innovación y Tecnología (UDIT), interesado en el desarrollo de software y en la creación de soluciones tecnológicas.
+Estudiante de Desarrollo de Aplicaciones Multiplataforma en UDIT, interesado en la programación, el desarrollo de software y la creación de aplicaciones.
 
-Este perfil reúne proyectos académicos, prácticas de programación y trabajos personales desarrollados durante mi formación, reflejando mi evolución técnica y mi interés por seguir aprendiendo nuevas tecnologías.
+GitHub Profile · Repositories
 
-Sobre mí
+About Me
 Estudiante de Desarrollo de Aplicaciones Multiplataforma.
-Interesado en el desarrollo de aplicaciones y la programación.
-Enfocado en mejorar mis habilidades técnicas mediante proyectos prácticos.
-Comprometido con el aprendizaje continuo y las buenas prácticas de desarrollo.
-Tecnologías
+Interesado en el desarrollo de aplicaciones y la resolución de problemas mediante código.
+Aprendiendo y trabajando con diferentes lenguajes y tecnologías.
+Enfocado en mejorar continuamente mis habilidades y desarrollar proyectos prácticos.
+Technologies & Tools
 
-Actualmente trabajo con tecnologías y lenguajes presentes en mis proyectos:
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,kotlin,python,ts,html,git,github,vscode&theme=dark" alt="Technologies and development tools" /> </p>
 
-Lenguajes: Java, Kotlin, Python y TypeScript.
-Desarrollo web: HTML.
-Áreas de interés: desarrollo de aplicaciones, programación orientada a objetos y desarrollo multiplataforma.
-Proyectos
+GitHub Overview
 
-En mis repositorios encontrarás diferentes proyectos y ejercicios relacionados con mi formación:
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=TitoKarl&showicons=true&theme=githubdark&hideborder=true&rankicon=github" alt="GitHub statistics" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitoKarl&layout=compact&theme=githubdark&hideborder=true" alt="Most used programming languages" /> </p>
 
-TitoKarl: repositorio principal de mi perfil.
-repositorio_DI: proyectos y trabajos de desarrollo.
-pmdm_udit: trabajo relacionado con el desarrollo de aplicaciones multiplataforma.
-Inteligencia_Artificial: proyectos y ejercicios relacionados con inteligencia artificial.
-Aceso-a-datos: prácticas relacionadas con el acceso a datos.
-psp: ejercicios relacionados con la programación de servicios y procesos.
+Featured Repositories
 
-Puedes consultar el código fuente y los detalles de cada proyecto desde la sección de repositorios.
+<p align="center"> <a href="https://github.com/TitoKarl/repositorioDI"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=TitoKarl&repo=repositorioDI&theme=githubdark&hideborder=true" alt="Repositorio DI" /> </a> <a href="https://github.com/TitoKarl/pmdmudit"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=TitoKarl&repo=pmdmudit&theme=githubdark&hideborder=true" alt="PMDM UDIT" /> </a> </p>
 
-Objetivos
+Current Focus
 
-Mi objetivo es continuar desarrollando mis conocimientos en programación, ampliar mi experiencia práctica y crear aplicaciones que destaquen por su funcionalidad, organización y calidad del código.
+Continuar desarrollando mis conocimientos en programación, profundizar en el desarrollo de aplicaciones y trabajar en proyectos que me permitan aplicar buenas prácticas de código y adquirir experiencia.
 
-Contacto
-GitHub: @TitoKarl
+Connect
 
-Gracias por visitar mi perfil. Estoy abierto a aprender nuevas tecnologías, explorar proyectos y seguir creciendo como desarrollador.
+<p align="center"> <a href="https://github.com/TitoKarl"> <img src="https://img.shields.io/badge/GitHub-TitoKarl-181717?style=for-the-badge&logo=github" alt="GitHub profile" /> </a> </p>
+
+<p align="center"> Always learning. Always building. </p>
