@@ -1,5 +1,5 @@
 Juan Carlos Rodríguez
-Estudiante de Desarrollo de Aplicaciones Multiplataforma
+Programador de Desarrollo de Aplicaciones Multiplataforma
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=200&section=header&text=Juan%20Carlos%20Rodríguez&fontSize=36&fontColor=FFFFFF&fontAlignY=42&desc=DESARROLLO%20DE%20SOFTWARE&descAlignY=65&descSize=16" width="100%" alt="Encabezado de Juan Carlos Rodríguez" /> </p>
 
@@ -9,7 +9,7 @@ Estudiante de Desarrollo de Aplicaciones Multiplataforma
 
 01. Sobre mí
 
-Soy estudiante de Desarrollo de Aplicaciones Multiplataforma en la Universidad de Diseño, Innovación y Tecnología (UDIT).
+Soy programador de Desarrollo de Aplicaciones Multiplataforma en la Universidad de Diseño, Innovación y Tecnología (UDIT).
 
 Mi formación me permite trabajar con diferentes lenguajes de programación, explorar distintas áreas del desarrollo de software y afrontar nuevos retos técnicos mediante proyectos prácticos.
 
