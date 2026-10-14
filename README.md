@@ -41,7 +41,7 @@ Visual Studio Code	Edición de código y desarrollo de software.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitoKarl&layout=compact&hideborder=true&bgcolor=0D1117&titlecolor=58A6FF&textcolor=C9D1D9&langs_count=8&locale=es" height="180" alt="Lenguajes más utilizados en los repositorios"/> </p>
 
-04. Objetivos de aprendizaje
+04. Objetivos
 
 Mi objetivo es seguir creciendo como desarrollador mediante la práctica constante, el aprendizaje de nuevas tecnologías y la participación en proyectos que me permitan mejorar mis habilidades.
 
