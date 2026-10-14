@@ -3,7 +3,7 @@ Programador de Desarrollo de Aplicaciones Multiplataforma
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=200&section=header&text=Juan%20Carlos%20Rodríguez&fontSize=36&fontColor=FFFFFF&fontAlignY=42&desc=DESARROLLO%20DE%20SOFTWARE&descAlignY=65&descSize=16" width="100%" alt="Encabezado de Juan Carlos Rodríguez" /> </p>
 
-<p align="center"> Estudiante de desarrollo de software interesado en la programación,<br/> la creación de aplicaciones y el aprendizaje continuo. </p>
+<p align="center"> Programador de desarrollo de software interesado en la programación,<br/> la creación de aplicaciones y el aprendizaje continuo. </p>
 
 <p align="center"> <img src="https://img.shields.io/badge/FORMACIÓN-DAM-243B55?style=for-the-badge" alt="Formación en desarrollo de aplicaciones multiplataforma"/> <img src="https://img.shields.io/badge/ENFOQUE-DESARROLLO%20DE%20SOFTWARE-243B55?style=for-the-badge" alt="Enfoque en desarrollo de software"/> </p>
 
