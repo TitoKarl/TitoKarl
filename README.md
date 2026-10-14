@@ -62,4 +62,4 @@ Busco construir una base técnica sólida, trabajar de forma organizada y manten
 
 Mi enfoque se basa en la práctica, la constancia y la mejora progresiva de mis conocimientos como desarrollador.
 
-<p align="center"> <strong>Juan Carlos Rodríguez</strong> <br/> Desarrollo de Aplicaciones Multiplataforma <br/><br/> <a href="https://github.com/TitoKarl">Ver mi perfil de GitHub</a> </p>
+<p align="center"> <strong>Juan Carlos Rodríguez</strong> <br/> Desarrollo de Aplicaciones Multiplataforma <br/><br/></p>
